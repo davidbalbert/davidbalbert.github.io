@@ -1,0 +1,29 @@
+An Open Letter To Business People
+=================================
+
+So you have an idea for a startup? Awesome! The world needs more people like you. You're going to have to start by finding a technical cofounder. This is hard because you're not a developer, so I'm going to teach you how to do it.
+
+You'll notice I said "technical cofounder" and not "programmer." That's important. If you decide to pay someone a few thousand dollars for a web app made to your specifications, you will probably fail. Why? Because your idea is probably not very good yet. You're going to have to iterate a whole bunch of times before your idea will be successful. You need someone who's going to be in it for a long haul. You need a technical cofounder.
+
+Now that you've decided to find a real cofounder, let's get started. For the time being, I'll play the part of your cofounder to be. We've already decided that you're not going to be paying me in cash. Instead, you're going to be paying me in equity. This is easier for you anyway because giving out equity costs you nothing.
+
+Now how much were you thinking you'd give me? Ten percent? That's way too low. Lets bump it up to 50%. Yeah, I know, it sounds like a lot. After all, you're the vision guy. All you need is someone to build your vision for you, right?
+
+Unfortunately, it's not really that simple. I hate to break it to you, but your idea is worth practically nothing. Execution is everything. You haven't really moved past Square Zero yet. After all, "If you guys were the inventors of Facebook, you would have invented Facebook."
+
+Walk in my shoes for a minute. Ideas are a [dime a dozen](http://paulgraham.com/ideas.html). Right now you are looking a lot like dead weight. Don't take that the wrong way. When our startup takes off, I'm not going to want to deal with all the stupid business stuff. That's what you love and what you're good at. I'll want to keep working on the product. It's just that right now I feel like I'm the only one who can contribute to the product 
+
+
+
+
+- don't do it for $$$, do it for equity
+	- the project isn't going to ever be "done", your idea isn't golden, it needs to iterate
+	- so you should give equity. How much? 50%. But that's so much, I hardly know them, I just want them to do what I tell them.
+	- Your idea is worth nothing. Execution is everything. "If you were the inventors of Facebook, you would have invented Facebook" You're at square 0. Find someone you can trust and go into business with.
+	- find someone who has ownership and input. equity is worth nothing if I can't improve the chances of success
+- how do you find these people?
+	- learn to program
+	- go to meetups
+	- don't pitch your idea. Make friends
+	- have lunch and shoot the shit
+	- then when you're sure, start working
