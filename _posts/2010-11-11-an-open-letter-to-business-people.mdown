@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Open Letter to Business People
+permalink: businesspeople.html
 ---
 
 So you have an idea for a startup? Awesome! The world needs more people like you. You're going to have to start by finding a technical cofounder. This is hard because you're not a programmer, so I'm going to teach you how to do it.
