@@ -18,7 +18,7 @@ Walk in my shoes for a minute. Ideas are a [dime a dozen](http://paulgraham.com/
 
 Don't let this get you down though. A startup without a business plan isn't a business. It's just some code. In the end, I need you just as much as you need me. You're just going to want to understand what's going through my head when you decide what kind of relationship we're going to have. 
 
-We've settled on 50%, but there's still something else that you're going to want to give me: input. My half of our newly minted company is worth nothing if we fail, and I'm not going to feel good about our prospects if I can't help shape our product.
+Ok, so we've settled on 50%, but there's still something else that you're going to want to give me: input. My half of our newly minted company is worth nothing if we fail, and I'm not going to feel good about our prospects if I can't help shape our product.
 
 Just because I'm the technical guy, doesn't mean I'm some sort of Marxian means of production. I'm a real person with a great logical and analytical mind. Even if you have some specific detailed domain knowledge that I lack, I spend all my time evaluating every new web startup that comes my way. I have a pretty good idea of what works and what doesn't, and as they say, "Two heads are better than one."
 
