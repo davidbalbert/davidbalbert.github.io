@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
+<div class="nav">
+  <a href="/">&larr; go home</a>
+</div>
 <h1>{{ page.title }}</h1>
-<div id="post">
+<div class="date">{{ page.date | date: "%B %d, %Y" }}</div>
+<div id="post" class="hyphenate">
 {{ content }}
 </div>

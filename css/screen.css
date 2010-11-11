@@ -78,12 +78,61 @@ ul.posts {
 /*
 /*****************************************************************************/
 
+#site-title {
+  font-size: 1.4em;
+}
+
+.about {
+  text-align: left;
+  width: 12em;
+  float: left;
+  margin-left: 1em;
+  margin-right: 5em;
+  margin-top: 1em;
+  line-height: 1.3em;
+}
+
+.about a:visited {
+  color: #00a;
+}
+
+.about a:hover {
+  color: black;
+}
+
+.nav {
+  margin-bottom: 1em;
+}
+
+.nav-list a {
+  vertical-align: top;
+}
+
+.nav a:visited {
+  color: #00a;
+}
+
+.nav a:hover {
+  color: #00a;
+}
+
+.about ul {
+  list-style: none;
+}
+
+.date {
+  font-size: 0.8em;
+  color: #666;
+  font-style: italic;
+}
+
 .site {
   font-size: 110%;
   text-align: justify;
   width: 40em;
-  margin: 3em auto 2em auto;
+  margin: 1em auto 2em auto;
   line-height: 1.5em;
+  float: left;
 }
 
 .title {
@@ -118,8 +167,11 @@ ul.posts {
   .site .footer {
     font-size: 80%;
     color: #666;
-    border-top: 4px solid #eee;
+    border-top: 2px solid #eee;
     margin-top: 2em;
+    margin-bottom: 3em;
+    padding-top: 1em;
+    line-height: 1.3em;
     overflow: hidden;
   }
 
