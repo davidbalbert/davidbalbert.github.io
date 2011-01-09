@@ -240,6 +240,21 @@ ul.posts {
     background-color: #333;
   }
 
+  #post blockquote {
+    margin-left: 2em;
+    border-left: 5px solid #ddd;
+    padding-left: 1em;
+    font-style: italic;
+  }
+
+  #post blockquote p {
+    margin-bottom: 0;
+  }
+
+  #post blockquote div.attribution {
+    margin-left: 2em;
+  }
+
 #related {
   margin-top: 2em;
 }
