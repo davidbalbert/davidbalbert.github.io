@@ -16,3 +16,5 @@ And then there's Ping. Ping epitomizes Apple's failure at the social web. When [
 
 If Apple's going to succeed at the web, they have to unlearn a lot of what makes them Apple. No more pixel perfect web apps that feel like desktop apps, no more sites that look like glossy brochures, and embracing chaos and amateurism over order and professionalism. It is going to be very hard.
 
+*There's a pretty good discussion about this on HN: [http://news.ycombinator.com/item?id=2616883](http://news.ycombinator.com/item?id=2616883)*
+
