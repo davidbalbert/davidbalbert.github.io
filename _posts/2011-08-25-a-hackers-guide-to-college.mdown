@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A hacker's guide to college
+title: A hacker&rsquo;s guide to college
 permalink: college.html
 ---
 
