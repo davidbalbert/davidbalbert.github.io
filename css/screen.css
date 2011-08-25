@@ -194,11 +194,6 @@ ul.posts {
         border: 0;
       }
 
-acronym {
-  font-variant: small-caps;
-  text-transform: lowercase;
-}
-
 /*****************************************************************************/
 /*
 /* Posts
@@ -267,3 +262,12 @@ acronym {
   #related h2 {
     margin-bottom: 1em;
   }
+
+acronym {
+  font-variant: small-caps;
+  text-transform: lowercase;
+}
+
+sup {
+  line-height: 0;
+}
