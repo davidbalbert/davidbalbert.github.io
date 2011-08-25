@@ -1,3 +1,5 @@
 markdown: redcarpet
+redcarpet:
+  extensions: [smart]
 pygments: true
 permalink: /:title.html
