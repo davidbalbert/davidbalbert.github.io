@@ -194,6 +194,11 @@ ul.posts {
         border: 0;
       }
 
+acronym {
+  font-variant: small-caps;
+  text-transform: lowercase;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
