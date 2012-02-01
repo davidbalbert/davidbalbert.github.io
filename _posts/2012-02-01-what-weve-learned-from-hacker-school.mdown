@@ -23,3 +23,5 @@ __There are programmers around the world who feel isolated.__ This is our most r
 At the beginning of January, we [told the Internet what we've been working on](http://unschooled.org/2012/06/the-path-to-hacker-school/). In the past three weeks, we've gotten to speak to programmers from all around the world, and again and again we've heard the same thing: even with all the great hacker communities and websites on the Internet, being the only programmer among the people you know in real life is isolating. This is very foreign to us. It's easy to forget how good some of us have it, having real life friends who are programmers. We can't fix this in a day, but we think we've got a start.
 
 _You can read more about Hacker School [here](http://www.hackerschool.com/about). We still have a couple of spots left for the upcoming batch, starting February 13th._
+
+_Hacker School is a [Shuttleworth Funded](http://shuttleworthfoundation.org) project. We don't charge for Hacker School and our space is donated, so the grant money went towards paying our bills while we figure out how to create great programmers._
