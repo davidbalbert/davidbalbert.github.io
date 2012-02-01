@@ -12,7 +12,7 @@ __Hacker School is good for experienced programmers.__ This was one of the first
 
 What we quickly learned is that the focus on becoming a better programmer is exactly what attracted the best programmers to us. In retrospect this should have been obvious. The best programmers become the best because they always want to be better. Also, great programmers enjoy spending time with other great programmers. 
 
-__A bit of structure is important__ We're big believers that you can't force people to learn what they don't want to, and we designed Hacker School accordingly. Loving programming is the most important quality that we look for in Hacker School students, because if you don't love programming, you won't do well in Hacker School.
+__A bit of structure is important__ We're big believers that you can't force people to learn what they don't want to, and we designed Hacker School accordingly. Loving programming is the most important quality that we look for in Hacker School students.
 
 When we started, we decided that we were going to give our students total freedom to learn as they saw fit. Halfway through last batch, we spoke with each student individually about how they thought the school was going and how we could improve it. Almost everyone said that they wanted to pair program more. This surprised us because none of our students had asked each other if they wanted to pair. When we probed further, we found it was the obvious social issues: shyness, fear of looking stupid, fear that no one else would feel the same way.
 
