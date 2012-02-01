@@ -1,7 +1,10 @@
-What we've learned from Hacker School
-=============================
+---
+layout: post
+title: What we&rsquo;ve learned from Hacker School
+permalink: hackerschool.html
+---
 
-We've now run two batches of Hacker School and we're about to start the third. We've learned a lot and I want to take some time to write down the most interesting and surprising lessons.
+We've now run two batches of [Hacker School](http://www.hackerschool.com/) and we're about to start the third. We've learned a lot and I want to take some time to write down the most interesting and surprising lessons.
 
 First, some background: Hacker School is a three month writers retreat for programmers located in New York. There are no teachers or classes. We spend our time writing free and open source software and discussing our work with each other. 
 
@@ -17,6 +20,6 @@ After hearing this, we told everyone about the feedback we got and set aside a f
 
 __There are programmers around the world who feel isolated.__ This is our most recent lesson. For the first two batches, we didn't do any publicity. All of our students were friends of friends. We wanted to make sure we got it right before we told anyone about it.
 
-At the beginning of January, we told the Internet what we've been working on. In the past three weeks, we've gotten to speak to programmers from all around the world, and again and again we've heard the same thing: even with all the great hacker communities and websites on the Internet, being the only programmer among the people you know in real life is isolating. This is very foreign to us. It's easy to forget how good some of us have it, having real life friends who are programmers. We can't fix this in a day, but we think we've got a start.
+At the beginning of January, we [told the Internet what we've been working on](http://unschooled.org/2012/06/the-path-to-hacker-school/). In the past three weeks, we've gotten to speak to programmers from all around the world, and again and again we've heard the same thing: even with all the great hacker communities and websites on the Internet, being the only programmer among the people you know in real life is isolating. This is very foreign to us. It's easy to forget how good some of us have it, having real life friends who are programmers. We can't fix this in a day, but we think we've got a start.
 
-_You can read more about Hacker School here. We still have a couple of spots left for the upcoming batch, starting February 13th._
+_You can read more about Hacker School [here](http://www.hackerschool.com/about). We still have a couple of spots left for the upcoming batch, starting February 13th._
