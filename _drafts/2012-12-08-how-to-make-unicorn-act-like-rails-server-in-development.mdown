@@ -54,4 +54,4 @@ This fixes the missing Rails logs, but what about Unicorn's Apache-like output? 
 
 <pre><code>$ RACK_ENV=none RAILS_ENV=development unicorn -c config/unicorn.rb</code></pre>
 
-If you're using `foreman` to run your server, you can put these into your `.env` file.
+If you're using `foreman` to run your app locally, you can put these into your `.env` file.
