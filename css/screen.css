@@ -217,17 +217,6 @@ ul.posts {
     margin-left: 1.35em;
   }
 
-  #post code {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    font-size: 85%;
-    padding: 0 .2em;
-  }
-
-    #post pre code {
-      border: none;
-    }
-
   /* terminal */
 
   #post pre.terminal {
