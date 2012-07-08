@@ -1,5 +1,8 @@
 markdown: redcarpet
-redcarpet:
-  extensions: [smart]
+
+# disabled until jekyll supports redcarpet 2.1.1 which (hopefully) doesn't do
+# smart quotes inside of <code> tags
+#redcarpet:
+  #extensions: [smart]
 pygments: true
 permalink: /:title.html
