@@ -1,6 +1,0 @@
-
-knowing what's broken
-
-node - IO should be asyncronous by default. Javascript is a good language for that.
-Bundler - gem management sucks. config.gem doesn't work very well
-coffee-script - javsacript doesn't look pretty
