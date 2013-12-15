@@ -52,6 +52,8 @@ _Cribbed from [http://help.papertrailapp.com/discussions/questions/116-logging-f
 
 If you want to use this trick to make Unicorn log to `STDOUT` in production, you can use the same code in `production.rb`, but change the default log level from `'DEBUG'` to `'INFO'` because that's the [standard behavior](http://guides.rubyonrails.org/debugging_rails_applications.html#log-levels).
 
+*Note: This workaround has been made obselete by the addition of the `--no-default-middleware` option to `unicorn`.*
+
 This fixes the missing Rails logs, but what about Unicorn's Apache-like output? This is a specific quirk of Unicorn for the `development` and `deployment` environments. In order to [ease the transition](http://rubyforge.org/pipermail/mongrel-unicorn/2010-July/000623.html) from the `rackup` to `unicorn` commands, Unicorn adds the same [default middleware](https://github.com/defunkt/unicorn/blob/v4.3.1/lib/unicorn.rb#L56-L65) as Rack to those two environments. This includes `Rack::CommonLogger`, which unsurprisingly logs all requests in the Apache common log format. The way to fix this is to set the `RACK_ENV` environmental variable to `none`. However, with `RACK_ENV`, and thus `RAILS_ENV`, set to `none`, Rails will be unable to load the proper configs for the app and databse. The solution is to explicitly set `RAILS_ENV` to `development` in addition to setting `RACK_ENV`. This tells Rails to use the correct environment while avoiding Unicorn's default middleware stack:
 
 <pre><code>$ RACK_ENV=none RAILS_ENV=development unicorn -c config/unicorn.rb</code></pre>
