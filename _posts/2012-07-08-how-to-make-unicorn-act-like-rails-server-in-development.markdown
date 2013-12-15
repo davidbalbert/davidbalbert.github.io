@@ -4,7 +4,7 @@ title: How to make Unicorn act like `rails server` in development
 permalink: unicorn.html
 ---
 
-*12/15/2013 Update: Added note about `--no-default-middleware`*
+*12/15/2013 Update: Added note about `--no-default-middleware`.*
 
 I've been doing some work on our servers and I decided to try using [Unicorn](http://unicorn.bogomips.org/). To lower the risk of bugs popping up after pushing the site to production, I wanted to drop WEBrick in development and use Unicorn there as well. The information required to do this was scattered around the web, so I've collected it all in one place:
 
