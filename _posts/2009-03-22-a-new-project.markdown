@@ -3,6 +3,7 @@ wordpress_id: 6
 layout: post
 title: A New Project
 wordpress_url: http://dave.is/blogging/?p=6
+permalink: a-new-project.html
 ---
 
 So I need a project. I mean, I really don't need a project. I have a lot on my plate including a [mobile phone virtualization][1] project on top of [Android][2] which I'm quite a bit behind on (more on that at a later date), but I still feel like I need a project. I want to learn board layout, which is something that isn't really taught in school. It's a shame that it isn't because the more and more I think about it, I realize I didn't become a Computer Engineer to learn how to design components, but to learn how to use them.

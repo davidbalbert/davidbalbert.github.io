@@ -3,6 +3,7 @@ wordpress_id: 138
 layout: post
 title: Tell me about yourself
 wordpress_url: http://dave.is/blogging/?p=138
+permalink: tell-me-about-yourself.html
 ---
 
 _I was recently asked to tell someone about myself via email. Here's what I came up with._

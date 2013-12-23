@@ -3,6 +3,7 @@ wordpress_id: 14
 layout: post
 title: Etiquette Algorithms
 wordpress_url: http://dave.is/blogging/?p=14
+permalink: etiquette-algorithms.html
 ---
 
 [↓][1] **Updated:** September 2nd, 2009.

@@ -3,6 +3,7 @@ wordpress_id: 3
 layout: post
 title: Hello, World!
 wordpress_url: http://dave.is/blogging/?p=3
+permalink: hello-world.html
 ---
 
 It's been well over a year since I decided that I should have a blog. There are a whole bunch of really good reasons to blog, or to write in any medium for that matter. Writing forces you to make your thoughts concrete. It forces you to think clearly. A lot of my ideas are murky and not fleshed out. Writing insures that at least some of them will get there. [Nick][1] once sent me Steve Yegge's essay [You Should Write Blogs][2]. It is a wonderful read and it articulates in great detail the benefits of blogging. I highly recommend it.

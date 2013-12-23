@@ -3,6 +3,7 @@ wordpress_id: 89
 layout: post
 title: On The Internet, _Everybody_ Knows You're a Dog
 wordpress_url: http://dave.is/blogging/?p=89
+permalink: on-the-internet-everybody-knows-youre-a-dog.html
 ---
 
 [↓][1] **Updated:** September 25th, 2009.

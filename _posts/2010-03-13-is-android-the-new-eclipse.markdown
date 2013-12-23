@@ -3,6 +3,7 @@ wordpress_id: 101
 layout: post
 title: Is Android the new Eclipse?
 wordpress_url: http://dave.is/blogging/?p=101
+permalink: is-android-the-new-eclipse.html
 ---
 
 I want to get rid of my iPhone. Just about every move Apple has made in the last 3 years with the exception of making absolutely gorgeous products has pissed me off (think DRM issues, closed App Store, removing apps months after they've been approved, the Google Voice fiasco). I want desperately to vote with my wallet and buy something new, but I just can't bring myself to do it.
