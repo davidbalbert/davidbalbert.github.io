@@ -1,6 +1,13 @@
-markdown: redcarpet
-
-redcarpet:
-  extensions: [smart]
-pygments: true
 permalink: /:year/:month/:day/:title
+gems:
+  - jekyll-feed
+
+feed:
+  path: atom.xml
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: David Albert
