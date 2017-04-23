@@ -1,4 +1,4 @@
-Blog
-====
+# My website
 
-This will be a place for my blog.
+Not much to see here.
+
