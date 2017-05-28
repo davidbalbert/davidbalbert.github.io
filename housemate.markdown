@@ -88,7 +88,7 @@ Smith and Court Streets have tons of restaurants and bars. It takes less than 10
 
 **About me**
 
-My name is David, but I go by Dave. I'm a 30 year old male computer programmer and small business owner. I run a writers retreat for programmers heavily based on unschooling. If you want to talk about weird educational ideas, we can definitely do that. I'm also an amateur pianist and aspiring playwright. Don't worry: I'll practice with headphones when you're around. I'm clean and I don't smoke. Pet peeves: a dirty kitchen, stuff in the sink, cabinets left open. I don't have people over often, but I'm not opposed to it every once and a while.
+My name is David, but I go by Dave. I'm a 30 year old computer programmer and small business owner. I run a writers retreat for programmers heavily based on unschooling. If you want to talk about weird educational ideas, we can definitely do that. I'm also an amateur pianist and aspiring playwright. Don't worry: I'll practice with headphones when you're around. I'm clean and I don't smoke. Pet peeves: a dirty kitchen, stuff in the sink, cabinets left open. I don't have people over often, but I'm not opposed to it every once and a while.
 
 **About you**
 
@@ -99,6 +99,6 @@ Kind, considerate, and able to communicate directly and frankly rather than bott
 **Miscellaneous**
 
 - No pets :(. I'm allergic.
-- Utilities are split 50/50. Over the past four months, this ranged from $61 to $72.
+- Utilities are split 50/50. Over the past four months, this ranged from $64 to $76.
 - You can pay by check, Venmo, etc.
 - I'm happy to split the cost of a housekeeper.
