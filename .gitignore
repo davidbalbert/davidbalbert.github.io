@@ -4,3 +4,4 @@ _site
 .DS_Store
 .env
 .bundle
+s3_website.yml
