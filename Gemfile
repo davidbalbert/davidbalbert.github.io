@@ -1,8 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.4.2'
-
-gem 'rake'
+ruby '3.0.0'
 
 gem 'github-pages'
-gem 's3_website'
+gem 'webrick'
