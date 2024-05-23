@@ -1,4 +1,3 @@
 # My website
 
-Not much to see here.
-
+To run: `jekyll build --watch`
