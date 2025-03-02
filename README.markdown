@@ -1,3 +1,3 @@
 # My website
 
-To run: `jekyll build --watch`
+To run: `jekyll serve --watch`
